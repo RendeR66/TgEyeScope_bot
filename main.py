@@ -10,7 +10,7 @@ from aiogram.types import Message
 from aiogram.utils.markdown import hbold
 
 logging.basicConfig(level=logging.INFO) #логирование, чтобы не пропустить важные сообщения
-TOKEN = "6751317862:AAEMM7zRMt1QUVqNZOkggXj8kxsHKPlLe0A"
+TOKEN = ""
 dp = Dispatcher(bot=Bot) #диспетчер
 
 
